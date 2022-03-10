@@ -1,0 +1,22 @@
+{
+  "name": "deeper-dungeons",
+  "version": "1.0.0",
+  "description": "a lil 2d gaim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmeesters/Deeper-Dungeons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianmeesters/Deeper-Dungeons/issues"
+  },
+  "homepage": "https://github.com/ianmeesters/Deeper-Dungeons#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
